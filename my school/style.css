@@ -1,0 +1,13 @@
+body{
+    background-image: url(WhatsApp\ Image\ 2024-05-16\ at\ 18.49.24_27bf688a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+h3{
+    background-position-x: center;
+}
+footer{
+    background-color: black;
+    background-size: cover;
+}
